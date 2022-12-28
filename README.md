@@ -1,3 +1,8 @@
+Not Avalon-mm variation of modules
+# Frame-gen
+module for producing simple RGB sync signals
+# Splashscreen
+A module for creating an AvalonStream carrying an in-memory splash screen image.
 # Screen-test
 module for sequential switching between test frames: 
 -red field;
