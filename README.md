@@ -16,4 +16,5 @@ module for sequential switching between test frames:
 
 # RGB-sync-adding
 Module inserts missing sync signals into RGB stream
+Supports only: 1024 x 768, 800 x 600, 640 x 480
 ![image](https://user-images.githubusercontent.com/65023680/209775174-2dce68a2-aaef-4598-a600-237a84cfe58f.png)
